@@ -57,7 +57,6 @@ benchmarks/bench_covertype_data/
 *.prefs
 .pydevproject
 .idea
-.vscode
 
 *.c
 *.cpp
@@ -102,3 +101,7 @@ sklearn/metrics/_pairwise_distances_reduction/_radius_neighbors.pyx
 
 # Default JupyterLite content
 jupyterlite_contents
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
